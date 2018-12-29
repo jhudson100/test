@@ -1,4 +1,4 @@
 # test
 
 FOO!
-BAR
+BAR BAZ
